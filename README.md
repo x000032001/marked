@@ -1,3 +1,11 @@
+# Notice
+
+
+This repo has been edited , `__AA__` is no longer to apply bold font
+
+and it'll added `<span class='fragment'></span>` to use in my prez forked repo([here](https://github.com/x000032001/prez))
+
+
 # marked
 
 > A full-featured markdown parser and compiler, written in JavaScript. Built
